@@ -41,3 +41,11 @@ This project provides a comprehensive view of TATA's sales performance, helping 
 🔹 Advanced predictive analytics using Machine Learning
 
 🔹 Additional financial and operational KPIs
+
+# 🖼️ Project Preview
+![Tata_retail_sales](https://github.com/user-attachments/assets/5a571a0c-69ef-4707-856d-4f356d3a1f8f)
+
+
+This dashboard is a game-changer for Tata-Retail-Sales Customers, transforming raw data into actionable intelligence and unlocking new opportunities for business growth! 📊✨
+
+
