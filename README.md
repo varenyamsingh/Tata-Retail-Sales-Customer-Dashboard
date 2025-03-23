@@ -48,4 +48,9 @@ This project provides a comprehensive view of TATA's sales performance, helping 
 
 This dashboard is a game-changer for Tata-Retail-Sales Customers, transforming raw data into actionable intelligence and unlocking new opportunities for business growth! 📊✨
 
+## Working demo
+
+
+https://github.com/user-attachments/assets/9100286a-4b45-48f3-a7dd-a42956fe892d
+
 
